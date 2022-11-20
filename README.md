@@ -12,3 +12,16 @@ Francisco José Ramírez Vicente
 
 **Fuente de datos:**
 [Kagle Asylum Seekers](https://www.kaggle.com/datasets/unitednations/refugee-data?select=asylum_seekers.csv)
+Se ha filtrado la información para dejar sólo 2016 y las peticiones realizadas.
+Finalmente se han seleccionado las 10 primeras de mayor a menor número de peticiones:
+
+Venezuela,Spain,4196
+Syrian Arab Rep.,Spain,3069
+Ukraine,Spain,2764
+Algeria,Spain,761
+Colombia,Spain,656
+El Salvador,Spain,444
+Honduras,Spain,399
+Palestinian,Spain,368
+Morocco,Spain,345
+Nigeria,Spain,294
